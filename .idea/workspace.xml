@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6d55c9b-f68e-4820-bfe7-611711e5c54d" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/email_otp_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     &quot;Python.email_otp_verification.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;123&quot;
+    &quot;git-widget-placeholder&quot;: &quot;daily-update&quot;
   }
 }</component>
   <component name="SharedIndexes">
