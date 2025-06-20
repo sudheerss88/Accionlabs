@@ -15,7 +15,3 @@ s = Solution()
 print(s.romanToInt("III"))
 print(s.romanToInt("LVIII"))
 print(s.romanToInt("MCMXCIV"))
-
-
-
-
